@@ -1,16 +1,13 @@
-### Hi there 👋
+# Arif Febrianto
 
-<!--
-**ariffb755/ariffb755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Arif Febrianto 👨 (he/him)—a freelance and remote web developer at Home. I live in jakarta, Indonesia. 🙌 I'm a Fullstack Web Developer with PHP and Javascript as Backend , Vue as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, Anime lover, and tech enthusiast. 💕
 
-Here are some ideas to get you started:
+### Github Performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=ariffb755&show_icons=true)
+
+- 🔭 I’m currently learning VueJS
+- ⚡ Excited to create open-source projects
+- 😄 I'm natively speak Indonesian and fluently speak english
+- 📫 You can reach me via ariffb755@gmail.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariffb755&theme=vue">
